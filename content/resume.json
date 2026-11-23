@@ -12,10 +12,20 @@
   "summary": "Junior Software Engineer based in Cairo, Egypt, with hands-on experience in backend development, machine learning pipelines, and technical systems support. Skilled in Python, Flutter, Node.js, PHP Laravel, Docker, and AWS, with a strong foundation in computer science and cloud architecture.",
   "experience": [
     {
-      "role": "Technical Support Engineer",
+      "role": "Software Engineer",
+      "org": "Upwork - Remote",
+      "period": "Apr. 2026 – Now",
+      "details": "Build Software Projects For Companies in UAE and Gulf Mainly worked in USA",
+      "highlights": [
+        "worked with so mant clients scored a 99%+ Client satisfaction score.",
+        "Diagnosed and resolved and after delivery follow ups including production and depolyment, application errors, and even educational TuTs."
+      ]
+    },
+    {
+      "role": "Technical Support",
       "org": "Xfinity",
       "period": "Jan. 2026 – Sep. 2026",
-      "details": "Remote — Technical support engineer resolving enterprise client network, application errors, and hardware failures.",
+      "details": "Remote — Technical support resolving enterprise client network, application errors, and hardware failures.",
       "highlights": [
         "Resolved an average of 30+ technical tickets per day while maintaining a 95%+ customer satisfaction score.",
         "Diagnosed and resolved network connectivity, application errors, and hardware failures across enterprise clients."
