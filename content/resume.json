@@ -1,0 +1,125 @@
+{
+  "name": "Mostafa Ashraf",
+  "title": "Junior Software Engineer",
+  "pdfUrl": "/resume.pdf",
+  "contact": {
+    "location": "Cairo, Egypt",
+    "email": "ma2963629@gmail.com",
+    "phone": "(+20) 10-987-14257",
+    "github": "https://github.com/mostafashraf18",
+    "linkedin": "https://linkedin.com/in/mostafaashraf23"
+  },
+  "summary": "Junior Software Engineer based in Cairo, Egypt, with hands-on experience in backend development, machine learning pipelines, and technical systems support. Skilled in Python, Flutter, Node.js, PHP Laravel, Docker, and AWS, with a strong foundation in computer science and cloud architecture.",
+  "experience": [
+    {
+      "role": "Technical Support Engineer",
+      "org": "Xfinity",
+      "period": "Jan. 2026 – Sep. 2026",
+      "details": "Remote — Technical support engineer resolving enterprise client network, application errors, and hardware failures.",
+      "highlights": [
+        "Resolved an average of 30+ technical tickets per day while maintaining a 95%+ customer satisfaction score.",
+        "Diagnosed and resolved network connectivity, application errors, and hardware failures across enterprise clients."
+      ]
+    },
+    {
+      "role": "Backend Developer Intern",
+      "org": "Orange Digital Center Egypt",
+      "period": "Aug. 2020 – Jan. 2021",
+      "details": "Cairo, Egypt — Developed and optimized full-stack applications using PHP Laravel framework in an agile team environment.",
+      "highlights": [
+        "Developed and deployed full-stack applications using PHP Laravel framework in an agile team environment.",
+        "Conducted extensive algorithm testing to optimize data processing pipelines and improve application performance.",
+        "Prepared technical documentation and conducted code reviews to ensure project alignment and quality standards."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "role": "Bachelor of Science in Computer Science",
+      "org": "Future University for Specialized Technological",
+      "period": "Sep. 2021 – Aug. 2025",
+      "details": "Cairo, Egypt · GPA: 3.21 / 4.0",
+      "highlights": [
+        "Comprehensive coursework in Data Structures, Algorithms, Distributed Systems, Software Engineering, and AI."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "year": "2026"
+    },
+    {
+      "name": "IT Specialist — Artificial Intelligence",
+      "issuer": "Certiport",
+      "year": "2024"
+    },
+    {
+      "name": "Technical Support Fundamentals",
+      "issuer": "Google",
+      "year": "2024"
+    },
+    {
+      "name": "Network Engineer — Huawei HCIA",
+      "issuer": "Huawei ICT Academy Egypt",
+      "year": "2023 & 2024"
+    },
+    {
+      "name": "Meta Social Media Marketing Professional Program (Fully Funded)",
+      "issuer": "Meta",
+      "year": "2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GreenNest",
+      "period": "2024 – 2025",
+      "details": "Cross-platform mobile app for real-time plant disease detection using a custom deep learning CNN model with 99% diagnostic accuracy.",
+      "link": "https://github.com/mostafashraf18",
+      "tags": ["Flutter", "Keras", "TensorFlow", "Python", "Computer Vision"],
+      "highlights": [
+        "Built a cross-platform mobile app for real-time plant disease detection using a custom deep learning CNN model, achieving 99% diagnostic accuracy.",
+        "Designed, trained, and optimized the model on image data, integrated it into a Flutter app, and deployed a treatment recommendation engine.",
+        "Managed the full ML pipeline: data collection, model training, optimization, and production deployment."
+      ]
+    },
+    {
+      "name": "Egypt Real Estate Price Predictor",
+      "period": "2024",
+      "details": "Machine learning API for Egyptian real estate price prediction with low-latency REST service.",
+      "link": "https://github.com/mostafashraf18",
+      "tags": ["Python", "Flask", "Scikit-learn", "REST API", "Machine Learning"],
+      "highlights": [
+        "Engineered and deployed a machine learning API for Egyptian real estate price prediction.",
+        "Scraped and structured live market data to train a regression model; delivered a low-latency REST service for external consumer and business applications."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & ML",
+      "items": ["Python", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy", "Computer Vision", "Deep Learning"]
+    },
+    {
+      "category": "Backend & Frameworks",
+      "items": ["Flask", "Django", "Node.js", "PHP Laravel", "REST APIs", "MySQL", "FastAPI"]
+    },
+    {
+      "category": "DevOps & Cloud",
+      "items": ["Docker", "Kubernetes", "AWS (EC2, S3, IAM, Lambda, CloudFront, API Gateway)", "Google Cloud", "CI/CD", "GitHub Actions", "Go"]
+    },
+    {
+      "category": "Systems & Networking",
+      "items": ["Linux", "Bash/Shell scripting", "TCP/IP", "DNS", "DHCP", "VPN", "Postman"]
+    },
+    {
+      "category": "Frontend & Mobile",
+      "items": ["Flutter", "React", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "category": "Tools & Languages",
+      "items": ["Git", "GitHub", "Go", "Java", "C++", "SQL", "VS Code", "Jupyter Notebook"]
+    }
+  ]
+}

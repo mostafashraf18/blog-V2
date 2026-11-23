@@ -1,0 +1,24 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple personal blog built with Node.js and Express.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "build": "node scripts/build-static.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "gray-matter": "^4.0.3",
+    "helmet": "^8.0.0",
+    "marked": "^15.0.0"
+  }
+}

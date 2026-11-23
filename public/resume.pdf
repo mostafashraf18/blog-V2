@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2513 >>
+stream
+BT
+/F1 20 Tf
+50 745 Td
+(Mostafa Ashraf - Junior Software Engineer) Tj
+/F1 10 Tf
+0 -18 Td
+(Cairo, Egypt | ma2963629@gmail.com | \(+20\) 10-987-14257 | github.com/mostafashraf18) Tj
+0 -22 Td
+/F1 12 Tf
+(EXPERIENCE) Tj
+0 -15 Td
+/F1 9 Tf
+(Technical Support Engineer - Xfinity \(Jan. 2026 - Jun. 2026\)) Tj
+0 -13 Td
+(  * Resolved an average of 30+ technical tickets per day while maintaining a 95%+ satisfaction score.) Tj
+0 -13 Td
+(  * Diagnosed and resolved network connectivity, application errors, and hardware failures across enterprise clients.) Tj
+0 -13 Td
+(Backend Developer Intern - Orange Digital Center Egypt \(Aug. 2020 - Jan. 2021\)) Tj
+0 -13 Td
+(  * Developed and deployed full-stack applications using PHP Laravel in an agile team environment.) Tj
+0 -13 Td
+(  * Conducted algorithm testing to optimize data pipelines and improve application performance.) Tj
+0 -13 Td
+0 -10 Td
+/F1 12 Tf
+(EDUCATION) Tj
+0 -15 Td
+/F1 9 Tf
+(Higher Future Institute for Specialized Technological Studies \(Sep. 2021 - Aug. 2025\)) Tj
+0 -13 Td
+(  * Bachelor of Science in Computer Science | GPA: 3.21 / 4.0) Tj
+0 -13 Td
+0 -10 Td
+/F1 12 Tf
+(CERTIFICATIONS) Tj
+0 -15 Td
+/F1 9 Tf
+(  * AWS Certified Cloud Practitioner - Amazon Web Services, 2026) Tj
+0 -13 Td
+(  * IT Specialist - Artificial Intelligence - Certiport, 2024) Tj
+0 -13 Td
+(  * Technical Support Fundamentals - Google, 2024) Tj
+0 -13 Td
+(  * Network Engineer - Huawei HCIA - Huawei ICT Academy Egypt, 2023 & 2024) Tj
+0 -13 Td
+(  * Meta Social Media Marketing Professional Program \(Fully Funded\) - Meta, 2022) Tj
+0 -13 Td
+0 -10 Td
+/F1 12 Tf
+(PROJECTS) Tj
+0 -15 Td
+/F1 9 Tf
+(GreenNest | Flutter, Keras, TensorFlow, Python \(2024 - 2025\)) Tj
+0 -13 Td
+(  * Cross-platform plant disease detection mobile app with CNN model achieving 99% accuracy.) Tj
+0 -13 Td
+(Egypt Real Estate Price Predictor | Python, Flask, Scikit-learn, REST API \(2024\)) Tj
+0 -13 Td
+(  * Machine learning API and low-latency REST service for real estate valuation.) Tj
+0 -13 Td
+0 -10 Td
+/F1 12 Tf
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+/F1 9 Tf
+(AI & ML: Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Computer Vision) Tj
+0 -13 Td
+(Backend: Flask, Django, Node.js, PHP Laravel, FastAPI, REST APIs, MySQL) Tj
+0 -13 Td
+(DevOps & Cloud: Docker, Kubernetes, AWS, Google Cloud, CI/CD, GitHub Actions, Go) Tj
+0 -13 Td
+(Systems & Networking: Linux, Bash, TCP/IP, DNS, DHCP, VPN, Postman) Tj
+0 -13 Td
+(Frontend & Tools: Flutter, React, HTML, CSS, JavaScript, Git, Java, C++, SQL) Tj
+0 -13 Td
+0 -10 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2876
+%%EOF

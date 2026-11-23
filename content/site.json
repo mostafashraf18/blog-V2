@@ -1,0 +1,12 @@
+{
+  "name": "Mostafa Ashraf",
+  "tagline": "Junior Software Engineer · Backend & ML",
+  "intro": "Hi, I’m Mostafa Ashraf. A Junior Software Engineer based in Cairo, Egypt, passionate about backend systems, machine learning pipelines, and cloud architecture.",
+  "status": "Available for Software Engineering & Backend roles",
+  "location": "Cairo, Egypt",
+  "email": "ma2963629@gmail.com",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/mostafashraf18" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/mostafaashraf23" }
+  ]
+}
